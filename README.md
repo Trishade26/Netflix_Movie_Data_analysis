@@ -2,3 +2,4 @@
 
 Netflix, founded on August 29, 1997, in Scotts Valley, California, by Reed Hastings and Marc Randolph, began as a DVD-by-mail service. Hastings, a computer scientist and mathematician, co-founded the company after being inspired by a hefty late fee from a traditional video rental store. Randolph, a marketing executive, played a pivotal role in shaping Netflix's early user interface and branding.🎥
 
+Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. Here in this project, we need to solve the following questions to help the company make informed business decisions accordingly.
