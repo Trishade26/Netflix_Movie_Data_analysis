@@ -19,10 +19,10 @@ Answer business-related questions based on data
 
 📊 Key Questions Answered
 What is the most frequent genre of movies on Netflix?
-Which genre has the highest votes?
 Which movie has the highest popularity and what is its genre?
 Which movie has the lowest popularity and what is its genre?
-Which year has the highest number of movie releases?
+Which year has the highest number of movie filmed?
+
 🧠 Machine Learning Used
 Data preprocessing (handling missing values, encoding)
 Feature selection
@@ -34,14 +34,12 @@ The project includes multiple visualizations such as:
 
 Bar charts (Genre distribution)
 Line graphs (Year-wise movie releases)
-Scatter plots (Popularity vs Votes)
-Heatmaps (Correlation analysis)
 
 Tools used:
 
 Python (Pandas, NumPy)
 Matplotlib / Seaborn
-Power BI / Tableau (if used)
+
 🗂️ Dataset
 Source: Netflix Movies Dataset (CSV format)
 Contains information like:
@@ -50,6 +48,7 @@ Genre
 Release Year
 Popularity
 Vote Count
+
 ⚙️ Project Workflow
 Data Collection
 Data Cleaning & Preprocessing
@@ -57,30 +56,6 @@ Exploratory Data Analysis (EDA)
 Machine Learning Implementation
 Data Visualization
 Insight Generation
-📌 Results & Insights
-Certain genres dominate Netflix content
-Popularity does not always correlate with vote count
-Recent years show a spike in content production
-Audience preferences vary across genres
-🚀 Future Improvements
-Add recommendation system
-Use advanced ML models
-Deploy as a web app using Django/Streamlit
-Real-time data integration
-📁 How to Run
-# Clone the repository
-git clone https://github.com/your-username/netflix-movie-analysis.git
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook / script
-👩‍💻 Author
-
-Trisha De
-
-B.Tech CSE (2024)
-PG Diploma in Big Data Analytics (2025)
-⭐ Conclusion
 
 This project demonstrates how data analysis and machine learning can be used to extract meaningful insights from entertainment data and support business decision-making.
